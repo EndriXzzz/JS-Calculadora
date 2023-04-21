@@ -26,6 +26,8 @@ const calcular = () => {
         // } else if (operador == '/') {
         //   atualizarDisplay(numeroAnterior / numeroAtual);
         // }
+
+        console.log("Alek estive por aqui")
     }
 }
 
